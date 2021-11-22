@@ -1,3 +1,5 @@
+Credits to https://github.com/csharp-leaf/Leaf.xNet - I took the code from there, removed anything else besides user agent randomizer. I also updated some of the code to generate user agents that look more recent (the original code generated the strings that look 5 year old).
+
 ## Linux
 compiles with `csc` compiler on linux:
 ```bash
